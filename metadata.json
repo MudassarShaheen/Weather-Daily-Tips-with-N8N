@@ -1,0 +1,7 @@
+{
+  "name": "Weather & Care Tips",
+  "description": "A family-friendly weather app providing smart daily guidance based on your location and weather conditions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
